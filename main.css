@@ -1,0 +1,23 @@
+.game {
+    background-color: lightBlue;
+    font-size: 2.5em;
+    margin: 0 auto;
+    text-align: center;
+    width: 330px;
+}
+
+button {
+    border-radius: 15px;
+    font-size: 1em;
+}
+
+.card {
+    background-color: lightCyan;
+    background-position: center;
+    background-size: cover;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+}
