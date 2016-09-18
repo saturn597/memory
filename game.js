@@ -93,6 +93,7 @@ class Game extends React.Component {
     }
 
     restart() {
+        shuffle(this.imageMap);
         this.setState(this.getCleanState());
     }
 }
